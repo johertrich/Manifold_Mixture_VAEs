@@ -20,6 +20,6 @@ For questions, bugs or any other comments, please contact Johannes Hertrich (j.h
 
 ## Citation
 
-[1] G. Alberti, J. Hertrich, M. Santacesaria and S. Sciutto.  
+[1] G.S. Alberti, J. Hertrich, M. Santacesaria and S. Sciutto.  
 Manifold Learning by Mixture Models of VAEs for Inverse Problems.  
 Arxiv preprint 2303.15244.
