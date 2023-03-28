@@ -1,7 +1,7 @@
 # Manifold Learning by Mixture Models of VAEs for Inverse Problems
 
 This repository contains the code for the paper "Manifold Learning by Mixture Models of VAEs for Inverse Problems" [1] available at  
-https://arxiv.org/abs/xxx  
+http://arxiv.org/abs/2303.15244  
 Please cite the paper, if you use the code.
 
 This repository contains code for approximating the charts of a manifold by a mixture model of VAEs. More precisely, the following examples are implemented.
@@ -22,4 +22,4 @@ For questions, bugs or any other comments, please contact Johannes Hertrich (j.h
 
 [1] G. Alberti, J. Hertrich, M. Santacesaria and S. Sciutto.  
 Manifold Learning by Mixture Models of VAEs for Inverse Problems.  
-Arxiv preprint xxx.
+Arxiv preprint 2303.15244.
