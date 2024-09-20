@@ -16,7 +16,7 @@ This repository contains code for approximating the charts of a manifold by a mi
 
 The code is written with PyTorch 1.12.0. The EIT experiment uses version 2019.1.0 of the Fenics library.
 
-For questions, bugs or any other comments, please contact Johannes Hertrich (j.hertrich(at)math.tu-berlin.de).
+For questions, bugs or any other comments, please contact Johannes Hertrich (an up-to date email address can be found [here](https://johertrich.github.io)).
 
 ## Citation
 
